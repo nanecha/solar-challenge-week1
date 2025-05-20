@@ -1,0 +1,10 @@
+{
+  "data_settings": {
+    "raw_data_path": "data/benin_raw.csv",
+    "clean_data_path": "data/benin_clean_data.csv"
+  },
+  "plot_settings": {
+    "default_figure": [10, 6],
+    "colors": ["#1f77b4", "#ff7f0e"]
+  }
+}
